@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "89bYtEYh/paUJGbX9PPcE2wXCYb9d0HtrcQnooM6NsyTDAq13iVL74GSJ6zRfkhu12rk0Fh3NMlX0QW3qYWR6A==",
+  "dgSpecHash": "QkEfFm/6YC/qX3CvcjdVY+7mZFt9apml4kPhkWHjW7JHY5vMTsnm+V8+AfUPzvu4fDna4Cd2M5zXmjca5np2KA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\student\\Documents\\Semester5\\Devops\\Lab7\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
+  "projectFilePath": "C:\\Users\\student\\Documents\\Semester5\\Devops\\Lab7\\lab4Devopsnew\\ClassLibraryProjects\\StringLibrary\\StringLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

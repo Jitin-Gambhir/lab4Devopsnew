@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = StringLibrary
-build_property.ProjectDir = C:\Users\student\Documents\Semester5\Devops\Lab7\lab4Devopsnew\ClassLibraryProjects\StringLibrary\
+build_property.RootNamespace = ShowCase
+build_property.ProjectDir = C:\Users\student\Documents\Semester5\Devops\Lab7\lab4Devopsnew\ClassLibraryProjects\ShowCase\
